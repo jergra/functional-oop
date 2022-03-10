@@ -14,7 +14,7 @@ deployed:
 
 deployment: 
     home page has to be called index.html
-    do not have a public folder, put favicon at the root
+    do not have a public folder: put favicon at the root
     push to github
     from Vercel, grab the github
     press Deploy
