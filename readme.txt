@@ -1,4 +1,4 @@
-March 9, 2022
+March 10, 2022
 
 C:\dev\docs\oop-functional-comparison
 
@@ -14,8 +14,8 @@ deployed:
 
 deployment: 
     home page has to be called index.html
-    do not have a public folder: put favicon at the root
-    push to github
+    do not have a public folder: put favicon, index.html, readme.txt, at the root
+    put the code on github
     from Vercel, grab the github
     press Deploy
 
