@@ -1,0 +1,51 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+nav {
+  float: right;
+}
+a {
+  text-decoration: none;
+}
+button {
+  margin-right: 10px;
+  padding: 5px 15px 5px 15px;
+  border: none;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 20px;
+  background: #eeefff;
+}
+.buttons {
+  margin-right: 40px;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+}
+.total {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.ovals {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  border-radius: 50%;
+}
+
+  
